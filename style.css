@@ -54,6 +54,7 @@ ul {
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 16px;
+    border-top: 4px solid #FFD700;
 }
 
 #footer {
@@ -64,6 +65,9 @@ ul {
     color: #F9FBFF;
     padding-top: 16px;
     padding-bottom: 16px;
+    font-size: 12px;
+    border-top: 4px solid #FFD700;
+    border-bottom: 4px solid #8CEEED;
 }
 
 #content-two {
@@ -84,6 +88,8 @@ ul {
     justify-content: center;
     padding: 75px 100px;
     background-color: #F0F0F0;
+    border-top: 4px solid #FFD700;
+    border-bottom: 4px solid #8CEEED;
 }
 
 #quote {
@@ -140,7 +146,7 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #404040;
+    border: 3px solid #404040;
     padding: 8px;
 }
 
@@ -150,6 +156,7 @@ ul {
     align-items: center;
     background-color: #707070;
     padding: 75px 100px;
+    border-bottom: 4px solid #8CEEED;
 }
 
 #content-two-top {
