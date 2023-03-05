@@ -173,3 +173,11 @@ ul {
 #content-four-text {
     font-size: 16px;
 }
+
+#logo, .heading-one, #content-two-top, #author, #content-four-header, #footer, #sign-up-one, #sign-up-two {
+    font-family: "Open Sans", sans-serif;
+}
+
+#header-menu, .heading-one-subtext, #fig-text, #quote, #content-four-text {
+    font-family: "Playfair Display", serif;
+}
