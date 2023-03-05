@@ -1,6 +1,7 @@
 body {
     display: flex;
     justify-content: center;
+    background-color: #F9FBFF;
 }
 
 ul {
@@ -18,7 +19,7 @@ ul {
 
 .pic-two {
     border-radius: 8px;
-    border: 4px solid #3882F6;
+    border: 4px solid #8CEEED;
     width: 100px;
     height: 100px;
 }
@@ -30,13 +31,13 @@ ul {
 }
 
 .heading-one {
-    color: #F9FAF8;
+    color: #f9fbff;
     font-size: 48px;
     font-weight: bolder;
 }
 
 .heading-one-subtext {
-    color: #E5E7EB;
+    color: #F9FBFF;
     font-size: 18px;
 }
 
@@ -49,7 +50,7 @@ ul {
 #header {
     display: flex;
     justify-content: space-between;
-    background-color: #1F2937;
+    background-color: #707070;
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 16px;
@@ -59,8 +60,8 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #708090;
-    color: #E5E7EB;
+    background-color: #707070;
+    color: #F9FBFF;
     padding-top: 16px;
     padding-bottom: 16px;
 }
@@ -82,20 +83,20 @@ ul {
     flex-direction: column;
     justify-content: center;
     padding: 75px 100px;
-    background-color: #E5E7EB;
+    background-color: #F0F0F0;
 }
 
 #quote {
     text-align: left;
     font-size: 36px;
     font-style: italic;
-    color: #1F2937;
+    color: #404040;
 }
 
 #author {
     text-align: right;
     font-size: 18px;
-    color: #1F2937;
+    color: #404040;
     font-weight: bold;
 }
 
@@ -110,36 +111,36 @@ ul {
     padding: 16px 32px;
     margin: 75px 100px;
     border-radius: 8px;
-    border: 4px solid #3882F6;
-    background-color: #3882F6;
-    color: #E5E7EB;
+    border: 4px solid #FFD700;
+    background-color: #8CEEED;
+    color: #404040;
     gap: 50px;
 }
 
 #logo {
-    color: #F9FAF8;
+    color: #F9FBFF;
     font-size: 24px;
 }
 
 #header-menu {
-    color: #F9FAF8;
+    color: #F9FBFF;
     font-size: 18px;
 }
 
 #sign-up-one {
-    background-color: #3882F6;
-    color: #E5E7EB;
+    background-color: #8CEEED;
+    color: #F9FBFF;
     border-radius: 8px;
     padding: 5px 20px;
 }
 
 #sign-up-two {
-    color: #E5E7EB;
+    color: #404040;
     border-radius: 8px;
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #E5E7EB;
+    border: 2px solid #404040;
     padding: 8px;
 }
 
@@ -147,14 +148,14 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #1F2937;
+    background-color: #707070;
     padding: 75px 100px;
 }
 
 #content-two-top {
     font-size: 36px;
     font-weight: bolder;
-    color: #1F2937;
+    color: #404040;
     padding-top: 16px;
     padding-bottom: 16px;
 }
@@ -172,6 +173,10 @@ ul {
 
 #content-four-text {
     font-size: 16px;
+}
+
+#fig-text {
+    color: #404040;
 }
 
 #logo, .heading-one, #content-two-top, #author, #content-four-header, #footer, #sign-up-one, #sign-up-two {
